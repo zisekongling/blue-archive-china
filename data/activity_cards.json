@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-07-16T09:00:00+08:00",
+  "crawl_time": "2025-07-17T09:00:00+08:00",
   "activities": [
     {
       "title": "[指引任务]百鬼夜行灯笼节巡游",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/723239.jpg",
-      "progress": "还剩下22天4小时",
+      "progress": "还剩下21天4小时",
       "tags": [
         "其他"
       ],
@@ -13,26 +13,15 @@
       "end_time": "2025-08-07T13:00:00+08:00"
     },
     {
-      "title": "总力战【猫鬼黑影（街区战）】",
+      "title": "特殊作战【神名十文字篇】",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/378965.jpg",
-      "progress": "还剩下18小时40分钟",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "与联邦理事会一起 沙勒总决算",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/312859.jpg",
-      "progress": "还剩下18小时40分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/597198.jpg",
+      "progress": "还剩下13天18小时",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-31T03:00:00+08:00"
     },
     {
       "title": "二周年纪念登录活动",
@@ -112,17 +101,6 @@
       "end_time": "2025-07-30T00:00:00+08:00"
     },
     {
-      "title": "特殊作战【神名十文字篇】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/597198.jpg",
-      "progress": "2025/07/16-2025/07/30",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-07-16T00:00:00+08:00",
-      "end_time": "2025-07-30T00:00:00+08:00"
-    },
-    {
       "title": "综合战术测试 · 护卫 · 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_876/h_491/829/43637/2025/6/4/230102.png",
@@ -132,6 +110,28 @@
       ],
       "start_time": "2025-07-17T00:00:00+08:00",
       "end_time": "2025-07-23T00:00:00+08:00"
+    },
+    {
+      "title": "总力战【猫鬼黑影（街区战）】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/378965.jpg",
+      "progress": "2025/07/10-2025/07/16",
+      "tags": [
+        "总力战"
+      ],
+      "start_time": "2025-07-10T00:00:00+08:00",
+      "end_time": "2025-07-16T00:00:00+08:00"
+    },
+    {
+      "title": "与联邦理事会一起 沙勒总决算",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/312859.jpg",
+      "progress": "2025/07/02-2025/07/16",
+      "tags": [
+        "其他"
+      ],
+      "start_time": "2025-07-02T00:00:00+08:00",
+      "end_time": "2025-07-16T00:00:00+08:00"
     },
     {
       "title": "[活动]电脑新春进行曲",
@@ -165,28 +165,6 @@
       ],
       "start_time": "2025-06-25T00:00:00+08:00",
       "end_time": "2025-07-02T00:00:00+08:00"
-    },
-    {
-      "title": "综合战术测试 · 防御 · 轻装甲",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/4/15/814452.jpg",
-      "progress": "2025/06/19-2025/06/25",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-06-19T00:00:00+08:00",
-      "end_time": "2025-06-25T00:00:00+08:00"
-    },
-    {
-      "title": "悬赏通缉、日程2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/4/15/440835.png",
-      "progress": "2025/06/18-2025/06/25",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-06-18T00:00:00+08:00",
-      "end_time": "2025-06-25T00:00:00+08:00"
     }
   ]
 }
