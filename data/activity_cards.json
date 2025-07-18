@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-07-17T09:00:00+08:00",
+  "crawl_time": "2025-07-18T09:00:00+08:00",
   "activities": [
     {
       "title": "[指引任务]百鬼夜行灯笼节巡游",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/723239.jpg",
-      "progress": "还剩下21天4小时",
+      "progress": "还剩下20天4小时",
       "tags": [
         "其他"
       ],
@@ -16,12 +16,23 @@
       "title": "特殊作战【神名十文字篇】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/597198.jpg",
-      "progress": "还剩下13天18小时",
+      "progress": "还剩下12天18小时",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2025-07-31T03:00:00+08:00"
+    },
+    {
+      "title": "综合战术测试 · 护卫 · 特殊装甲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_876/h_491/829/43637/2025/6/4/230102.png",
+      "progress": "还剩下5天18小时",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": "2025-07-24T03:00:00+08:00"
     },
     {
       "title": "二周年纪念登录活动",
@@ -99,17 +110,6 @@
       ],
       "start_time": "2025-07-23T00:00:00+08:00",
       "end_time": "2025-07-30T00:00:00+08:00"
-    },
-    {
-      "title": "综合战术测试 · 护卫 · 特殊装甲",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_876/h_491/829/43637/2025/6/4/230102.png",
-      "progress": "2025/07/17-2025/07/23",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-07-17T00:00:00+08:00",
-      "end_time": "2025-07-23T00:00:00+08:00"
     },
     {
       "title": "总力战【猫鬼黑影（街区战）】",
