@@ -1,104 +1,138 @@
 {
-  "crawl_time": "2025-08-07T09:20:51+08:00",
+  "crawl_time": "2025-08-08T09:20:14+08:00",
   "pools": [
+    {
+      "title": "芹香（新年）",
+      "description": "芹香（新年）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/698499.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "13天4小时后开始UP",
+      "start_time": "2025-08-21T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "春香（新年）",
+      "description": "春香（新年）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/477363.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "13天4小时后开始UP",
+      "start_time": "2025-08-21T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "佳代子（新年）",
+      "description": "佳代子（新年）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/61187.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "13天4小时后开始UP",
+      "start_time": "2025-08-21T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "睦月（新年）",
+      "description": "睦月（新年）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/604682.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "13天4小时后开始UP",
+      "start_time": "2025-08-21T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "爱露（新年）",
+      "description": "爱露（新年）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/928251.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "13天4小时后开始UP",
+      "start_time": "2025-08-21T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "花江（圣诞）",
+      "description": "花江（圣诞）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/560669.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天4小时后开始UP",
+      "start_time": "2025-08-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "芹娜（圣诞）",
+      "description": "芹娜（圣诞）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/502747.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天4小时后开始UP",
+      "start_time": "2025-08-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "星野（泳装）",
       "description": "星野（泳装）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/156300.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定",
         "复刻"
       ],
-      "progress": "4小时39分钟后开始UP",
-      "start_time": "2025-08-07T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-08-14T13:00:00+08:00+08:00"
     },
     {
       "title": "日奈（礼服）",
       "description": "日奈（礼服）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/709793.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定"
       ],
-      "progress": "4小时39分钟后开始UP",
-      "start_time": "2025-08-07T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-08-14T13:00:00+08:00+08:00"
     },
     {
       "title": "真琴",
       "description": "真琴",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/183165.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4小时38分钟",
+      "progress": "已经有19小时21分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-07T13:00:00+08:00+08:00"
+      "end_time": "2025-08-07T14:00:00+08:00+08:00"
     },
     {
       "title": "亚子（礼服）",
       "description": "亚子（礼服）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/750886.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4小时38分钟",
+      "progress": "已经有19小时21分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-07T13:00:00+08:00+08:00"
+      "end_time": "2025-08-07T14:00:00+08:00+08:00"
     },
     {
       "title": "伊吕波",
       "description": "伊吕波",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/67203.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下4小时38分钟",
-      "start_time": null,
-      "end_time": "2025-08-07T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "堇",
-      "description": "堇",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/734981.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天19小时未UP",
+      "progress": "已经有19小时21分钟未UP",
       "start_time": null,
-      "end_time": "2025-07-31T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "艾米",
-      "description": "艾米",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/182227.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-31T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "日鞠",
-      "description": "日鞠",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/299381.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-31T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "艾米（泳装）",
-      "description": "艾米（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/4/284734.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-31T14:00:00+08:00+08:00"
+      "end_time": "2025-08-07T14:00:00+08:00+08:00"
     }
   ]
 }

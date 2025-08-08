@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-07T09:00:00+08:00",
+  "crawl_time": "2025-08-08T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下21天4小时",
+      "progress": "还剩下20天4小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动]阳光绽放 她们的小夜曲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/21706.jpg",
-      "progress": "还剩下7天4小时",
+      "progress": "还剩下6天4小时",
       "tags": [
         "活动"
       ],
@@ -24,10 +24,32 @@
       "end_time": "2025-08-14T13:00:00+08:00"
     },
     {
+      "title": "总力战：希罗尼穆斯（室内战）",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/403234.jpg",
+      "progress": "还剩下5天18小时",
+      "tags": [
+        "总力战"
+      ],
+      "start_time": null,
+      "end_time": "2025-08-14T03:00:00+08:00"
+    },
+    {
+      "title": "日程、学院交流3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/869116.jpg",
+      "progress": "还剩下5天18小时",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": null,
+      "end_time": "2025-08-14T03:00:00+08:00"
+    },
+    {
       "title": "[限时网页活动]宴会上也要维护风纪！~日奈的热身运动~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/674668.jpg",
-      "progress": "还剩下6天18小时",
+      "progress": "还剩下5天18小时",
       "tags": [
         "其他"
       ],
@@ -35,37 +57,125 @@
       "end_time": "2025-08-14T03:00:00+08:00"
     },
     {
-      "title": "每日免费招募活动",
+      "title": "大决战：霍德（街区战）",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/810904.jpg",
-      "progress": "还剩下4小时38分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/211235.jpg",
+      "progress": "2025/08/21-2025/08/27",
+      "tags": [
+        "大决战"
+      ],
+      "start_time": "2025-08-21T00:00:00+08:00",
+      "end_time": "2025-08-27T00:00:00+08:00"
+    },
+    {
+      "title": "特别委托3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/428332.jpg",
+      "progress": "2025/08/20-2025/08/27",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-20T00:00:00+08:00",
+      "end_time": "2025-08-27T00:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/589264.jpg",
+      "progress": "2025/08/22-2025/08/24",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-22T00:00:00+08:00",
+      "end_time": "2025-08-24T00:00:00+08:00"
+    },
+    {
+      "title": "任务（困难难度）3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/121530.jpg",
+      "progress": "2025/08/17-2025/08/20",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-17T00:00:00+08:00",
+      "end_time": "2025-08-20T00:00:00+08:00"
+    },
+    {
+      "title": "综合战术测试 · 突破 · 特殊装甲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/704899.jpg",
+      "progress": "2025/08/14-2025/08/20",
       "tags": [
         "其他"
       ],
-      "start_time": null,
-      "end_time": null
+      "start_time": "2025-08-14T00:00:00+08:00",
+      "end_time": "2025-08-20T00:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/296748.jpg",
+      "progress": "2025/08/15-2025/08/17",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-15T00:00:00+08:00",
+      "end_time": "2025-08-17T00:00:00+08:00"
+    },
+    {
+      "title": "任务（普通难度）3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/246040.jpg",
+      "progress": "2025/08/13-2025/08/17",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-13T00:00:00+08:00",
+      "end_time": "2025-08-17T00:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/752432.jpg",
+      "progress": "2025/08/08-2025/08/10",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-08T00:00:00+08:00",
+      "end_time": "2025-08-10T00:00:00+08:00"
+    },
+    {
+      "title": "每日免费招募活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/810904.jpg",
+      "progress": "2025/07/31-2025/08/07",
+      "tags": [
+        "其他"
+      ],
+      "start_time": "2025-07-31T00:00:00+08:00",
+      "end_time": "2025-08-07T00:00:00+08:00"
     },
     {
       "title": "[指引任务]百鬼夜行灯笼节巡游",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/723239.jpg",
-      "progress": "还剩下4小时38分钟",
+      "progress": "2025/07/03-2025/08/07",
       "tags": [
         "其他"
       ],
-      "start_time": null,
-      "end_time": null
+      "start_time": "2025-07-03T00:00:00+08:00",
+      "end_time": "2025-08-07T00:00:00+08:00"
     },
     {
-      "title": "总力战：希罗尼穆斯（室内战）",
+      "title": "账号经验值2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/403234.jpg",
-      "progress": "2025/08/07-2025/08/13",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/744751.jpg",
+      "progress": "2025/08/01-2025/08/03",
       "tags": [
-        "总力战"
+        "资源翻倍"
       ],
-      "start_time": "2025-08-07T00:00:00+08:00",
-      "end_time": "2025-08-13T00:00:00+08:00"
+      "start_time": "2025-08-01T00:00:00+08:00",
+      "end_time": "2025-08-03T00:00:00+08:00"
     },
     {
       "title": "大决战【佩洛洛斯拉（野外战）】",
@@ -88,39 +198,6 @@
       ],
       "start_time": "2025-07-23T00:00:00+08:00",
       "end_time": "2025-07-30T00:00:00+08:00"
-    },
-    {
-      "title": "特殊作战【神名十文字篇】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/597198.jpg",
-      "progress": "2025/07/16-2025/07/30",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-07-16T00:00:00+08:00",
-      "end_time": "2025-07-30T00:00:00+08:00"
-    },
-    {
-      "title": "综合战术测试 · 护卫 · 特殊装甲",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_876/h_491/829/43637/2025/6/4/230102.png",
-      "progress": "2025/07/17-2025/07/23",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-07-17T00:00:00+08:00",
-      "end_time": "2025-07-23T00:00:00+08:00"
-    },
-    {
-      "title": "总力战【猫鬼黑影（街区战）】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/3/378965.jpg",
-      "progress": "2025/07/10-2025/07/16",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": "2025-07-10T00:00:00+08:00",
-      "end_time": "2025-07-16T00:00:00+08:00"
     }
   ]
 }
