@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-08T09:00:00+08:00",
+  "crawl_time": "2025-08-09T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下20天4小时",
+      "progress": "还剩下19天4小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动]阳光绽放 她们的小夜曲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/21706.jpg",
-      "progress": "还剩下6天4小时",
+      "progress": "还剩下5天4小时",
       "tags": [
         "活动"
       ],
@@ -27,7 +27,7 @@
       "title": "总力战：希罗尼穆斯（室内战）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/403234.jpg",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "总力战"
       ],
@@ -38,7 +38,7 @@
       "title": "日程、学院交流3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/869116.jpg",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "资源翻倍"
       ],
@@ -49,12 +49,23 @@
       "title": "[限时网页活动]宴会上也要维护风纪！~日奈的热身运动~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/674668.jpg",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2025-08-14T03:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/752432.jpg",
+      "progress": "还剩下1天18小时",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": null,
+      "end_time": "2025-08-11T03:00:00+08:00"
     },
     {
       "title": "大决战：霍德（街区战）",
@@ -132,17 +143,6 @@
       ],
       "start_time": "2025-08-13T00:00:00+08:00",
       "end_time": "2025-08-17T00:00:00+08:00"
-    },
-    {
-      "title": "账号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/752432.jpg",
-      "progress": "2025/08/08-2025/08/10",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-08T00:00:00+08:00",
-      "end_time": "2025-08-10T00:00:00+08:00"
     },
     {
       "title": "每日免费招募活动",
