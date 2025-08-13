@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-12T09:00:00+08:00",
+  "crawl_time": "2025-08-13T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下16天4小时",
+      "progress": "还剩下15天4小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动]阳光绽放 她们的小夜曲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/21706.jpg",
-      "progress": "还剩下2天4小时",
+      "progress": "还剩下1天4小时",
       "tags": [
         "活动"
       ],
@@ -27,34 +27,34 @@
       "title": "总力战：希罗尼穆斯（室内战）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/403234.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时44分钟",
       "tags": [
         "总力战"
       ],
       "start_time": null,
-      "end_time": "2025-08-14T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "日程、学院交流3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/869116.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时44分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-08-14T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "[限时网页活动]宴会上也要维护风纪！~日奈的热身运动~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/674668.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时44分钟",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2025-08-14T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "大决战：霍德（街区战）",
