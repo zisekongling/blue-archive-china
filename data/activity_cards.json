@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-15T09:00:00+08:00",
+  "crawl_time": "2025-08-16T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下13天4小时",
+      "progress": "还剩下12天4小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "综合战术测试 · 突破 · 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/704899.jpg",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "其他"
       ],
@@ -24,10 +24,21 @@
       "end_time": "2025-08-21T03:00:00+08:00"
     },
     {
+      "title": "账号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/296748.jpg",
+      "progress": "还剩下1天18小时",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": null,
+      "end_time": "2025-08-18T03:00:00+08:00"
+    },
+    {
       "title": "任务（普通难度）3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/246040.jpg",
-      "progress": "还剩下2天18小时",
+      "progress": "还剩下1天18小时",
       "tags": [
         "资源翻倍"
       ],
@@ -77,17 +88,6 @@
       ],
       "start_time": "2025-08-17T00:00:00+08:00",
       "end_time": "2025-08-20T00:00:00+08:00"
-    },
-    {
-      "title": "账号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/296748.jpg",
-      "progress": "2025/08/15-2025/08/17",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-15T00:00:00+08:00",
-      "end_time": "2025-08-17T00:00:00+08:00"
     },
     {
       "title": "[活动]阳光绽放 她们的小夜曲",
