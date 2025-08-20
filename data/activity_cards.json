@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-19T09:00:00+08:00",
+  "crawl_time": "2025-08-20T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下9天4小时",
+      "progress": "还剩下8天4小时",
       "tags": [
         "其他"
       ],
@@ -16,23 +16,23 @@
       "title": "任务（困难难度）3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/121530.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时48分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-08-21T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "综合战术测试 · 突破 · 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/704899.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时48分钟",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2025-08-21T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "大决战：霍德（街区战）",
