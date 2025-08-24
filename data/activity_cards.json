@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-23T09:00:00+08:00",
+  "crawl_time": "2025-08-24T09:00:00+08:00",
   "activities": [
     {
       "title": "二周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/4/152165.jpg",
-      "progress": "还剩下5天4小时",
+      "progress": "还剩下4天4小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "大决战：霍德（街区战）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/211235.jpg",
-      "progress": "还剩下4天18小时",
+      "progress": "还剩下3天18小时",
       "tags": [
         "大决战"
       ],
@@ -27,7 +27,7 @@
       "title": "特别委托3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/7/428332.jpg",
-      "progress": "还剩下4天18小时",
+      "progress": "还剩下3天18小时",
       "tags": [
         "资源翻倍"
       ],
@@ -38,12 +38,12 @@
       "title": "账号经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/7/589264.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时41分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-08-25T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "任务（困难难度）3倍",
