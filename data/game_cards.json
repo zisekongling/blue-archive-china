@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-08-24T09:17:43+08:00",
+  "crawl_time": "2025-08-25T09:13:09+08:00",
   "pools": [
     {
       "title": "芹香（新年）",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/698499.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天4小时",
+      "progress": "UP还剩下3天4小时",
       "start_time": null,
       "end_time": "2025-08-28T13:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/477363.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天4小时",
+      "progress": "UP还剩下3天4小时",
       "start_time": null,
       "end_time": "2025-08-28T13:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/61187.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天4小时",
+      "progress": "UP还剩下3天4小时",
       "start_time": null,
       "end_time": "2025-08-28T13:00:00+08:00+08:00"
     },
@@ -39,7 +39,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4天4小时",
+      "progress": "UP还剩下3天4小时",
       "start_time": null,
       "end_time": "2025-08-28T13:00:00+08:00+08:00"
     },
@@ -51,7 +51,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4天4小时",
+      "progress": "UP还剩下3天4小时",
       "start_time": null,
       "end_time": "2025-08-28T13:00:00+08:00+08:00"
     },
@@ -61,7 +61,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/560669.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2025-08-21T14:00:00+08:00+08:00"
     },
@@ -71,7 +71,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/502747.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2025-08-21T14:00:00+08:00+08:00"
     }
