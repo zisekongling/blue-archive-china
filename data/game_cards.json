@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-08-28T09:08:07+08:00",
+  "crawl_time": "2025-08-29T09:08:05+08:00",
   "pools": [
     {
       "title": "樱子",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/179817.png",
       "status": "将开始",
       "tags": [],
-      "progress": "28天4小时后开始UP",
+      "progress": "27天4小时后开始UP",
       "start_time": "2025-09-25T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/165267.png",
       "status": "将开始",
       "tags": [],
-      "progress": "28天4小时后开始UP",
+      "progress": "27天4小时后开始UP",
       "start_time": "2025-09-25T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/939412.png",
       "status": "将开始",
       "tags": [],
-      "progress": "28天4小时后开始UP",
+      "progress": "27天4小时后开始UP",
       "start_time": "2025-09-25T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/110365.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/723956.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -60,7 +60,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -73,7 +73,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -83,7 +83,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/413845.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -93,7 +93,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/473202.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2025-09-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -101,141 +101,121 @@
       "title": "茜（邦妮）",
       "description": "茜（邦妮）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/864581.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "明日奈（邦妮）",
       "description": "明日奈（邦妮）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/828892.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "妮露（邦妮）",
       "description": "妮露（邦妮）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/582937.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "花凛（邦妮）",
       "description": "花凛（邦妮）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/573386.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "佳代子（礼服）",
       "description": "佳代子（礼服）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/294534.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "爱露（礼服）",
       "description": "爱露（礼服）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/59402.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时52分钟后开始UP",
-      "start_time": "2025-08-28T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-09-11T13:00:00+08:00+08:00"
     },
     {
       "title": "芹香（新年）",
       "description": "芹香（新年）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/698499.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时51分钟",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-28T13:00:00+08:00+08:00"
+      "end_time": "2025-08-28T14:00:00+08:00+08:00"
     },
     {
       "title": "春香（新年）",
       "description": "春香（新年）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/477363.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时51分钟",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-28T13:00:00+08:00+08:00"
+      "end_time": "2025-08-28T14:00:00+08:00+08:00"
     },
     {
       "title": "佳代子（新年）",
       "description": "佳代子（新年）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/61187.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时51分钟",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-28T13:00:00+08:00+08:00"
+      "end_time": "2025-08-28T14:00:00+08:00+08:00"
     },
     {
       "title": "睦月（新年）",
       "description": "睦月（新年）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/604682.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4小时51分钟",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-28T13:00:00+08:00+08:00"
+      "end_time": "2025-08-28T14:00:00+08:00+08:00"
     },
     {
       "title": "爱露（新年）",
       "description": "爱露（新年）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/928251.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4小时51分钟",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-08-28T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "花江（圣诞）",
-      "description": "花江（圣诞）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/560669.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-08-21T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "芹娜（圣诞）",
-      "description": "芹娜（圣诞）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/7/502747.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-08-21T14:00:00+08:00+08:00"
+      "end_time": "2025-08-28T14:00:00+08:00+08:00"
     }
   ]
 }
