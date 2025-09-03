@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-02T09:00:00+08:00",
+  "crawl_time": "2025-09-03T09:00:00+08:00",
   "activities": [
     {
       "title": "总力战【切赛德（室内战）】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/255126.jpg",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "总力战"
       ],
@@ -16,12 +16,12 @@
       "title": "悬赏通缉、日程2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/469978.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时53分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-09-04T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "总力战：霍德（街区战）",
