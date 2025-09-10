@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-09T09:00:00+08:00",
+  "crawl_time": "2025-09-10T09:00:00+08:00",
   "activities": [
     {
       "title": "综合战术测试 · 射击 · 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/505537.png",
-      "progress": "还剩下5天18小时",
+      "progress": "还剩下4天18小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动]0068 来自歌剧的爱情！",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/3/342955.jpg",
-      "progress": "还剩下2天4小时",
+      "progress": "还剩下1天4小时",
       "tags": [
         "活动"
       ],
@@ -27,12 +27,12 @@
       "title": "学院交流会2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/414490.jpg",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时53分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-09-11T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "总力战：霍德（街区战）",
