@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-13T09:00:00+08:00",
+  "crawl_time": "2025-09-14T09:00:00+08:00",
   "activities": [
     {
       "title": "[活动]新年开胃菜 ~一局定输赢~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/438171.jpg",
-      "progress": "还剩下12天4小时",
+      "progress": "还剩下11天4小时",
       "tags": [
         "活动"
       ],
@@ -16,7 +16,7 @@
       "title": "悬赏通缉、日程2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/430021.jpg",
-      "progress": "还剩下4天18小时",
+      "progress": "还剩下3天18小时",
       "tags": [
         "资源翻倍"
       ],
@@ -27,12 +27,12 @@
       "title": "综合战术测试 · 射击 · 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/505537.png",
-      "progress": "还剩下1天18小时",
+      "progress": "还剩下18小时47分钟",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2025-09-15T03:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "总力战：霍德（街区战）",
