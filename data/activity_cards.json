@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-17T09:00:00+08:00",
+  "crawl_time": "2025-09-18T09:00:00+08:00",
   "activities": [
     {
       "title": "[活动]新年开胃菜 ~一局定输赢~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/438171.jpg",
-      "progress": "还剩下8天4小时",
+      "progress": "还剩下7天4小时",
       "tags": [
         "活动"
       ],
@@ -13,26 +13,26 @@
       "end_time": "2025-09-25T13:00:00+08:00"
     },
     {
-      "title": "大﻿决战【回转 FX Mk.0（野外战）】",
+      "title": "任务（普通难度）2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/617772.jpg",
-      "progress": "还剩下4天18小时",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/10/553056.jpg",
+      "progress": "还剩下3天18小时",
       "tags": [
-        "其他"
+        "资源翻倍"
       ],
       "start_time": null,
       "end_time": "2025-09-22T03:00:00+08:00"
     },
     {
-      "title": "悬赏通缉、日程2倍",
+      "title": "大﻿决战【回转 FX Mk.0（野外战）】",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/430021.jpg",
-      "progress": "还剩下18小时53分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/617772.jpg",
+      "progress": "还剩下3天18小时",
       "tags": [
-        "资源翻倍"
+        "其他"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-22T03:00:00+08:00"
     },
     {
       "title": "总力战：霍德（街区战）",
@@ -79,15 +79,15 @@
       "end_time": "2025-09-24T00:00:00+08:00"
     },
     {
-      "title": "任务（普通难度）2倍",
+      "title": "悬赏通缉、日程2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/10/553056.jpg",
-      "progress": "2025/09/17-2025/09/21",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/430021.jpg",
+      "progress": "2025/09/10-2025/09/17",
       "tags": [
         "资源翻倍"
       ],
-      "start_time": "2025-09-17T00:00:00+08:00",
-      "end_time": "2025-09-21T00:00:00+08:00"
+      "start_time": "2025-09-10T00:00:00+08:00",
+      "end_time": "2025-09-17T00:00:00+08:00"
     },
     {
       "title": "综合战术测试 · 射击 · 轻装甲",
@@ -132,17 +132,6 @@
       ],
       "start_time": "2025-09-01T00:00:00+08:00",
       "end_time": "2025-09-07T00:00:00+08:00"
-    },
-    {
-      "title": "悬赏通缉、日程2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/469978.jpg",
-      "progress": "2025/08/27-2025/09/03",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-27T00:00:00+08:00",
-      "end_time": "2025-09-03T00:00:00+08:00"
     }
   ]
 }
