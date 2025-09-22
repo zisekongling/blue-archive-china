@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-21T09:00:00+08:00",
+  "crawl_time": "2025-09-22T09:00:00+08:00",
   "activities": [
     {
       "title": "[活动]新年开胃菜 ~一局定输赢~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/438171.jpg",
-      "progress": "还剩下4天4小时",
+      "progress": "还剩下3天4小时",
       "tags": [
         "活动"
       ],
@@ -13,26 +13,15 @@
       "end_time": "2025-09-25T13:00:00+08:00"
     },
     {
-      "title": "任务（普通难度）2倍",
+      "title": "任务（困难难度）2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/10/553056.jpg",
-      "progress": "还剩下18小时40分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/289315.jpg",
+      "progress": "还剩下2天18小时",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "大﻿决战【回转 FX Mk.0（野外战）】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/617772.jpg",
-      "progress": "还剩下18小时40分钟",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-25T03:00:00+08:00"
     },
     {
       "title": "总力战：霍德（街区战）",
@@ -68,15 +57,26 @@
       "end_time": "2025-09-28T00:00:00+08:00"
     },
     {
-      "title": "任务（困难难度）2倍",
+      "title": "任务（普通难度）2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/289315.jpg",
-      "progress": "2025/09/21-2025/09/24",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/10/553056.jpg",
+      "progress": "2025/09/17-2025/09/21",
       "tags": [
         "资源翻倍"
       ],
-      "start_time": "2025-09-21T00:00:00+08:00",
-      "end_time": "2025-09-24T00:00:00+08:00"
+      "start_time": "2025-09-17T00:00:00+08:00",
+      "end_time": "2025-09-21T00:00:00+08:00"
+    },
+    {
+      "title": "大﻿决战【回转 FX Mk.0（野外战）】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/617772.jpg",
+      "progress": "2025/09/15-2025/09/21",
+      "tags": [
+        "其他"
+      ],
+      "start_time": "2025-09-15T00:00:00+08:00",
+      "end_time": "2025-09-21T00:00:00+08:00"
     },
     {
       "title": "悬赏通缉、日程2倍",
@@ -110,28 +110,6 @@
       ],
       "start_time": "2025-08-28T00:00:00+08:00",
       "end_time": "2025-09-11T00:00:00+08:00"
-    },
-    {
-      "title": "学院交流会2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/414490.jpg",
-      "progress": "2025/09/03-2025/09/10",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-09-03T00:00:00+08:00",
-      "end_time": "2025-09-10T00:00:00+08:00"
-    },
-    {
-      "title": "总力战【切赛德（室内战）】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/25/255126.jpg",
-      "progress": "2025/09/01-2025/09/07",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": "2025-09-01T00:00:00+08:00",
-      "end_time": "2025-09-07T00:00:00+08:00"
     }
   ]
 }
