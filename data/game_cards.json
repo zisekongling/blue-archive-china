@@ -1,101 +1,55 @@
 {
-  "crawl_time": "2025-10-01T09:14:54+08:00",
+  "crawl_time": "2025-10-02T14:21:28+08:00",
   "pools": [
+    {
+      "title": "和纱（乐队）",
+      "description": "和纱（乐队）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/766934.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2025-10-16T13:00:00+08:00+08:00"
+    },
+    {
+      "title": "好美（乐队）",
+      "description": "好美（乐队）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/325382.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2025-10-16T13:00:00+08:00+08:00"
+    },
     {
       "title": "樱子",
       "description": "樱子",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/179817.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下1天4小时",
+      "progress": "已经有22分钟未UP",
       "start_time": null,
-      "end_time": "2025-10-02T13:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "日向",
       "description": "日向",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/165267.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下1天4小时",
+      "progress": "已经有22分钟未UP",
       "start_time": null,
-      "end_time": "2025-10-02T13:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "忧",
       "description": "忧",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/939412.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下1天4小时",
-      "start_time": null,
-      "end_time": "2025-10-02T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "濑名",
-      "description": "濑名",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/110365.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天19小时未UP",
+      "progress": "已经有22分钟未UP",
       "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "千寻",
-      "description": "千寻",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/723956.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "风香（新年）",
-      "description": "风香（新年）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/691153.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有5天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "晴奈（新年）",
-      "description": "晴奈（新年）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/289275.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有5天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "明里（新年）",
-      "description": "明里（新年）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/413845.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "美祢",
-      "description": "美祢",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/473202.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-25T14:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }
