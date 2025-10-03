@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-10-02T14:21:28+08:00",
+  "crawl_time": "2025-10-03T09:05:28+08:00",
   "pools": [
     {
       "title": "和纱（乐队）",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/766934.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下13天4小时",
       "start_time": null,
       "end_time": "2025-10-16T13:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/325382.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下13天4小时",
       "start_time": null,
       "end_time": "2025-10-16T13:00:00+08:00+08:00"
     },
@@ -27,9 +27,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/179817.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有22分钟未UP",
+      "progress": "已经有19小时6分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-02T14:00:00+08:00+08:00"
     },
     {
       "title": "日向",
@@ -37,9 +37,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/165267.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有22分钟未UP",
+      "progress": "已经有19小时6分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-02T14:00:00+08:00+08:00"
     },
     {
       "title": "忧",
@@ -47,9 +47,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/939412.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有22分钟未UP",
+      "progress": "已经有19小时6分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-02T14:00:00+08:00+08:00"
     }
   ]
 }
