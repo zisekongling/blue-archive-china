@@ -1,13 +1,53 @@
 {
-  "crawl_time": "2025-10-14T09:07:00+08:00",
+  "crawl_time": "2025-10-15T09:08:34+08:00",
   "pools": [
+    {
+      "title": "玲纱",
+      "description": "玲纱",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/170541.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1天4小时后开始UP",
+      "start_time": "2025-10-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "玛丽",
+      "description": "玛丽",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/946717.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1天4小时后开始UP",
+      "start_time": "2025-10-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "夏",
+      "description": "夏",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/571720.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1天4小时后开始UP",
+      "start_time": "2025-10-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "和纱",
+      "description": "和纱",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/988427.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1天4小时后开始UP",
+      "start_time": "2025-10-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "和纱（乐队）",
       "description": "和纱（乐队）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/766934.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下2天4小时",
+      "progress": "UP还剩下1天4小时",
       "start_time": null,
       "end_time": "2025-10-16T13:00:00+08:00+08:00"
     },
@@ -17,7 +57,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/325382.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下2天4小时",
+      "progress": "UP还剩下1天4小时",
       "start_time": null,
       "end_time": "2025-10-16T13:00:00+08:00+08:00"
     },
@@ -27,7 +67,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/179817.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有11天19小时未UP",
+      "progress": "已经有12天19小时未UP",
       "start_time": null,
       "end_time": "2025-10-02T14:00:00+08:00+08:00"
     },
@@ -37,7 +77,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/165267.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有11天19小时未UP",
+      "progress": "已经有12天19小时未UP",
       "start_time": null,
       "end_time": "2025-10-02T14:00:00+08:00+08:00"
     },
@@ -47,7 +87,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/939412.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有11天19小时未UP",
+      "progress": "已经有12天19小时未UP",
       "start_time": null,
       "end_time": "2025-10-02T14:00:00+08:00+08:00"
     }
