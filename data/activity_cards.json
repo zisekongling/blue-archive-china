@@ -1,11 +1,22 @@
 {
-  "crawl_time": "2025-10-15T09:00:00+08:00",
+  "crawl_time": "2025-10-16T09:00:00+08:00",
   "activities": [
+    {
+      "title": "活动 与联邦理事会一起 沙勒总决算",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/14/569868.png",
+      "progress": "还剩下14天4小时",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-30T13:00:00+08:00"
+    },
     {
       "title": "无限制决战 赛特之怒 · 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/1/459285.jpg",
-      "progress": "还剩下14天18小时",
+      "progress": "还剩下13天18小时",
       "tags": [
         "其他"
       ],
@@ -16,45 +27,12 @@
       "title": "活动 -ive aLIVE!",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/1/152676.jpg",
-      "progress": "还剩下1天4小时",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": "2025-10-16T13:00:00+08:00"
-    },
-    {
-      "title": "大决战 比纳 • 街区战",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/9/607314.png",
-      "progress": "还剩下18小时50分钟",
-      "tags": [
-        "大决战"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "网页活动 秋星曜野，桂月垂光",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/9/899672.png",
-      "progress": "还剩下18小时50分钟",
+      "progress": "还剩下4小时50分钟",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": null
-    },
-    {
-      "title": "活动 与联邦理事会一起 沙勒总决算",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/14/569868.png",
-      "progress": "2025/10/15-2025/10/30",
-      "tags": [
-        "其他"
-      ],
-      "start_time": "2025-10-15T00:00:00+08:00",
-      "end_time": "2025-10-30T00:00:00+08:00"
     },
     {
       "title": "总力战 白&黑 • 街区战",
@@ -66,6 +44,28 @@
       ],
       "start_time": "2025-10-18T00:00:00+08:00",
       "end_time": "2025-10-21T00:00:00+08:00"
+    },
+    {
+      "title": "大决战 比纳 • 街区战",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/9/607314.png",
+      "progress": "2025/10/09-2025/10/15",
+      "tags": [
+        "大决战"
+      ],
+      "start_time": "2025-10-09T00:00:00+08:00",
+      "end_time": "2025-10-15T00:00:00+08:00"
+    },
+    {
+      "title": "网页活动 秋星曜野，桂月垂光",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/43637/2025/9/9/899672.png",
+      "progress": "2025/10/02-2025/10/15",
+      "tags": [
+        "其他"
+      ],
+      "start_time": "2025-10-02T00:00:00+08:00",
+      "end_time": "2025-10-15T00:00:00+08:00"
     },
     {
       "title": "综合战术测试 防御 · 弹力装甲",
@@ -99,28 +99,6 @@
       ],
       "start_time": "2025-10-03T00:00:00+08:00",
       "end_time": "2025-10-05T00:00:00+08:00"
-    },
-    {
-      "title": "总力战：霍德（街区战）",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/261791.jpg",
-      "progress": "2025/09/25-2025/10/01",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": "2025-09-25T00:00:00+08:00",
-      "end_time": "2025-10-01T00:00:00+08:00"
-    },
-    {
-      "title": "特别委托3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/25/384650.jpg",
-      "progress": "2025/09/24-2025/10/01",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-09-24T00:00:00+08:00",
-      "end_time": "2025-10-01T00:00:00+08:00"
     }
   ]
 }
