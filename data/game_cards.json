@@ -1,95 +1,55 @@
 {
-  "crawl_time": "2025-10-16T09:08:23+08:00",
+  "crawl_time": "2025-10-17T09:07:54+08:00",
   "pools": [
     {
       "title": "玲纱",
       "description": "玲纱",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/170541.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时51分钟后开始UP",
-      "start_time": "2025-10-16T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
     {
       "title": "玛丽",
       "description": "玛丽",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/946717.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时51分钟后开始UP",
-      "start_time": "2025-10-16T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
     {
       "title": "夏",
       "description": "夏",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/571720.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时51分钟后开始UP",
-      "start_time": "2025-10-16T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
     {
       "title": "和纱",
       "description": "和纱",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/988427.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时51分钟后开始UP",
-      "start_time": "2025-10-16T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
     {
       "title": "和纱（乐队）",
       "description": "和纱（乐队）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/766934.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下4小时50分钟",
-      "start_time": null,
-      "end_time": "2025-10-16T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "好美（乐队）",
-      "description": "好美（乐队）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/325382.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下4小时40分钟",
-      "start_time": null,
-      "end_time": "2025-10-16T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "樱子",
-      "description": "樱子",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/179817.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有13天19小时未UP",
+      "progress": "已经有19小时8分钟未UP",
       "start_time": null,
-      "end_time": "2025-10-02T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "日向",
-      "description": "日向",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/165267.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-02T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "忧",
-      "description": "忧",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/25/939412.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-02T14:00:00+08:00+08:00"
+      "end_time": "2025-10-16T14:00:00+08:00+08:00"
     }
   ]
 }
