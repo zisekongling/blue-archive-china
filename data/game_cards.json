@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-10-17T09:07:54+08:00",
+  "crawl_time": "2025-10-18T09:05:19+08:00",
   "pools": [
     {
       "title": "玲纱",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/170541.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天4小时",
+      "progress": "UP还剩下5天4小时",
       "start_time": null,
       "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/946717.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天4小时",
+      "progress": "UP还剩下5天4小时",
       "start_time": null,
       "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/571720.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天4小时",
+      "progress": "UP还剩下5天4小时",
       "start_time": null,
       "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/988427.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天4小时",
+      "progress": "UP还剩下5天4小时",
       "start_time": null,
       "end_time": "2025-10-23T13:00:00+08:00+08:00"
     },
@@ -47,7 +47,17 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/766934.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有19小时8分钟未UP",
+      "progress": "已经有1天19小时未UP",
+      "start_time": null,
+      "end_time": "2025-10-16T14:00:00+08:00+08:00"
+    },
+    {
+      "title": "好美（乐队）",
+      "description": "好美（乐队）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/1/325382.png",
+      "status": "已结束",
+      "tags": [],
+      "progress": "已经有1天19小时未UP",
       "start_time": null,
       "end_time": "2025-10-16T14:00:00+08:00+08:00"
     }
