@@ -1,161 +1,121 @@
 {
-  "crawl_time": "2025-11-06T09:12:12+08:00",
+  "crawl_time": "2025-11-07T09:11:21+08:00",
   "pools": [
     {
       "title": "时（邦妮）",
       "description": "时（邦妮）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/3/808001.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时48分钟后开始UP",
-      "start_time": "2025-11-06T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-11-20T13:00:00+08:00+08:00"
     },
     {
       "title": "爱丽丝（女仆）",
       "description": "爱丽丝（女仆）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/3/22788.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时48分钟后开始UP",
-      "start_time": "2025-11-06T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-11-20T13:00:00+08:00+08:00"
     },
     {
       "title": "绿（女仆）",
       "description": "绿（女仆）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/3/28483.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时48分钟后开始UP",
-      "start_time": "2025-11-06T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-11-20T13:00:00+08:00+08:00"
     },
     {
       "title": "桃（女仆）",
       "description": "桃（女仆）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/3/834045.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时48分钟后开始UP",
-      "start_time": "2025-11-06T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2025-11-20T13:00:00+08:00+08:00"
     },
     {
       "title": "静子",
       "description": "静子",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/34951.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "泉奈",
       "description": "泉奈",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/850197.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "三森",
       "description": "三森",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/937961.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "时",
       "description": "时",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/63293.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "渚",
       "description": "渚",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/503742.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "海香",
       "description": "海香",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/956554.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     },
     {
       "title": "椿（导游）",
       "description": "椿（导游）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/23/405843.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下4小时47分钟",
-      "start_time": null,
-      "end_time": "2025-11-06T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "玲纱",
-      "description": "玲纱",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/170541.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有13天19小时未UP",
+      "progress": "已经有19小时12分钟未UP",
       "start_time": null,
-      "end_time": "2025-10-23T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "玛丽",
-      "description": "玛丽",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/946717.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-23T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "夏",
-      "description": "夏",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/571720.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-23T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "和纱",
-      "description": "和纱",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/14/988427.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-23T14:00:00+08:00+08:00"
+      "end_time": "2025-11-06T14:00:00+08:00+08:00"
     }
   ]
 }
