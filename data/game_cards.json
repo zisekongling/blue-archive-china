@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-12-18T09:13:10+08:00",
+  "crawl_time": "2025-12-19T09:16:21+08:00",
   "pools": [
     {
       "title": "康娜(泳装)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/261316.png",
       "status": "将开始",
       "tags": [],
-      "progress": "21天4小时后开始UP",
+      "progress": "20天4小时后开始UP",
       "start_time": "2026-01-08T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/105373.png",
       "status": "将开始",
       "tags": [],
-      "progress": "21天4小时后开始UP",
+      "progress": "20天4小时后开始UP",
       "start_time": "2026-01-08T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/394988.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2026-01-01T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -39,7 +39,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2026-01-01T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -51,7 +51,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2026-01-01T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -63,7 +63,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天4小时后开始UP",
+      "progress": "13天4小时后开始UP",
       "start_time": "2026-01-01T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -71,153 +71,107 @@
       "title": "巴(旗袍)",
       "description": "巴(旗袍)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/755323.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时47分钟后开始UP",
-      "start_time": "2025-12-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-01T13:00:00+08:00+08:00"
     },
     {
       "title": "玛丽娜(旗袍)",
       "description": "玛丽娜(旗袍)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/430625.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时47分钟后开始UP",
-      "start_time": "2025-12-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-01T13:00:00+08:00+08:00"
     },
     {
       "title": "泉奈(泳装)",
       "description": "泉奈(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/743531.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4小时47分钟后开始UP",
-      "start_time": "2025-12-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-01T13:00:00+08:00+08:00"
     },
     {
       "title": "千世(泳装)",
       "description": "千世(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/221612.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4小时47分钟后开始UP",
-      "start_time": "2025-12-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-01T13:00:00+08:00+08:00"
     },
     {
       "title": "三森(泳装)",
       "description": "三森(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/237236.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4小时47分钟后开始UP",
-      "start_time": "2025-12-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-01T13:00:00+08:00+08:00"
     },
     {
       "title": "南",
       "description": "南",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/167369.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时16分钟未UP",
       "start_time": null,
-      "end_time": "2025-12-18T13:00:00+08:00+08:00"
+      "end_time": "2025-12-18T14:00:00+08:00+08:00"
     },
     {
       "title": "心奈",
       "description": "心奈",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/203608.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时16分钟未UP",
       "start_time": null,
-      "end_time": "2025-12-18T13:00:00+08:00+08:00"
+      "end_time": "2025-12-18T14:00:00+08:00+08:00"
     },
     {
       "title": "瞬",
       "description": "瞬",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/634694.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4小时47分钟",
+      "progress": "已经有19小时16分钟未UP",
       "start_time": null,
-      "end_time": "2025-12-18T13:00:00+08:00+08:00"
+      "end_time": "2025-12-18T14:00:00+08:00+08:00"
     },
     {
       "title": "瑠美",
       "description": "瑠美",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/13689.png",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下4小时47分钟",
-      "start_time": null,
-      "end_time": "2025-12-18T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "白子（泳装）",
-      "description": "白子（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/182472.png",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天19小时未UP",
+      "progress": "已经有19小时16分钟未UP",
       "start_time": null,
-      "end_time": "2025-12-11T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "野宫（泳装）",
-      "description": "野宫（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/593602.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-12-11T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "若藻（泳装）",
-      "description": "若藻（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/101774.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-12-11T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "芹香（泳装）",
-      "description": "芹香（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/10/18/37367.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2025-12-11T14:00:00+08:00+08:00"
+      "end_time": "2025-12-18T14:00:00+08:00+08:00"
     }
   ]
 }
