@@ -1,129 +1,71 @@
 {
-  "crawl_time": "2026-01-08T09:19:01+08:00",
+  "crawl_time": "2026-01-09T09:19:08+08:00",
   "pools": [
     {
       "title": "康娜(泳装)",
       "description": "康娜(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/261316.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时41分钟后开始UP",
-      "start_time": "2026-01-08T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-22T13:00:00+08:00+08:00"
     },
     {
       "title": "吹雪(泳装)",
       "description": "吹雪(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/105373.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4小时41分钟后开始UP",
-      "start_time": "2026-01-08T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天4小时",
+      "start_time": null,
+      "end_time": "2026-01-22T13:00:00+08:00+08:00"
     },
     {
       "title": "绮良良",
       "description": "绮良良",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/394988.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4小时40分钟",
+      "progress": "已经有19小时19分钟未UP",
       "start_time": null,
-      "end_time": "2026-01-08T13:00:00+08:00+08:00"
+      "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
     {
       "title": "果穗",
       "description": "果穗",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/177475.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4小时40分钟",
+      "progress": "已经有19小时19分钟未UP",
       "start_time": null,
-      "end_time": "2026-01-08T13:00:00+08:00+08:00"
+      "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
     {
       "title": "枫",
       "description": "枫",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/373143.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4小时40分钟",
+      "progress": "已经有19小时19分钟未UP",
       "start_time": null,
-      "end_time": "2026-01-08T13:00:00+08:00+08:00"
+      "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
     {
       "title": "月咏",
       "description": "月咏",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/159388.png",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下4小时40分钟",
-      "start_time": null,
-      "end_time": "2026-01-08T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "巴(旗袍)",
-      "description": "巴(旗袍)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/755323.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-01T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "玛丽娜(旗袍)",
-      "description": "玛丽娜(旗袍)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/430625.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-01T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "泉奈(泳装)",
-      "description": "泉奈(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/743531.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-01T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "千世(泳装)",
-      "description": "千世(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/221612.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-01T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "三森(泳装)",
-      "description": "三森(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/237236.png",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天19小时未UP",
+      "progress": "已经有19小时19分钟未UP",
       "start_time": null,
-      "end_time": "2026-01-01T14:00:00+08:00+08:00"
+      "end_time": "2026-01-08T14:00:00+08:00+08:00"
     }
   ]
 }
