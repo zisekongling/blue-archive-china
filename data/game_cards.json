@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-11T09:25:25+08:00",
+  "crawl_time": "2026-01-12T09:22:13+08:00",
   "pools": [
     {
       "title": "康娜(泳装)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/261316.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下11天4小时",
+      "progress": "UP还剩下10天4小时",
       "start_time": null,
       "end_time": "2026-01-22T13:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/105373.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下11天4小时",
+      "progress": "UP还剩下10天4小时",
       "start_time": null,
       "end_time": "2026-01-22T13:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/394988.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
@@ -39,7 +39,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
@@ -51,7 +51,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-08T14:00:00+08:00+08:00"
     },
@@ -63,7 +63,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天19小时未UP",
+      "progress": "已经有3天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-08T14:00:00+08:00+08:00"
     }
