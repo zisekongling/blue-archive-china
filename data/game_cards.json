@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-28T09:20:35+08:00",
+  "crawl_time": "2026-01-29T09:41:34+08:00",
   "pools": [
     {
       "title": "星野(临战)",
@@ -9,8 +9,8 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-01-29T09:00:00+08:00+08:00",
+      "progress": "18分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -21,8 +21,8 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-01-29T09:00:00+08:00+08:00",
+      "progress": "18分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -34,8 +34,8 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-01-29T09:00:00+08:00+08:00",
+      "progress": "18分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -46,9 +46,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-01-29T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "实梨",
@@ -58,9 +58,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-01-29T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "梅露",
@@ -70,9 +70,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-01-29T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "切里诺",
@@ -82,9 +82,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-01-29T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "玛丽娜",
@@ -94,9 +94,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-01-29T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "康娜(泳装)",
@@ -104,7 +104,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/261316.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天19小时未UP",
+      "progress": "已经有6天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-22T14:00:00+08:00+08:00"
     },
@@ -114,7 +114,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/11/105373.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天19小时未UP",
+      "progress": "已经有6天19小时未UP",
       "start_time": null,
       "end_time": "2026-01-22T14:00:00+08:00+08:00"
     }
