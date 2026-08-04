@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-08-03T10:14:18+08:00",
+  "crawl_time": "2026-08-04T10:00:15+08:00",
   "pools": [
     {
       "title": "菲娜(导游)",
@@ -7,8 +7,8 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/40426945mrenjd7e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "10天3小时后开始UP",
-      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "progress": "9天4小时后开始UP",
+      "start_time": "2026-08-13T14:00:00+08:00+08:00",
       "end_time": null
     },
     {
@@ -19,8 +19,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "10天3小时后开始UP",
-      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "progress": "9天4小时后开始UP",
+      "start_time": "2026-08-13T14:00:00+08:00+08:00",
       "end_time": null
     },
     {
@@ -31,8 +31,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "10天3小时后开始UP",
-      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "progress": "9天4小时后开始UP",
+      "start_time": "2026-08-13T14:00:00+08:00+08:00",
       "end_time": null
     },
     {
@@ -44,8 +44,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "10天3小时后开始UP",
-      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "progress": "9天4小时后开始UP",
+      "start_time": "2026-08-13T14:00:00+08:00+08:00",
       "end_time": null
     },
     {
@@ -57,8 +57,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "10天3小时后开始UP",
-      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "progress": "9天4小时后开始UP",
+      "start_time": "2026-08-13T14:00:00+08:00+08:00",
       "end_time": null
     },
     {
@@ -69,9 +69,9 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下10天3小时",
+      "progress": "UP还剩下9天4小时",
       "start_time": null,
-      "end_time": "2026-08-13T13:00:00+08:00+08:00"
+      "end_time": "2026-08-13T14:00:00+08:00+08:00"
     },
     {
       "title": "光",
@@ -81,9 +81,9 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下10天3小时",
+      "progress": "UP还剩下9天4小时",
       "start_time": null,
-      "end_time": "2026-08-13T13:00:00+08:00+08:00"
+      "end_time": "2026-08-13T14:00:00+08:00+08:00"
     },
     {
       "title": "纱织",
@@ -93,9 +93,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天3小时",
+      "progress": "UP还剩下9天4小时",
       "start_time": null,
-      "end_time": "2026-08-13T13:00:00+08:00+08:00"
+      "end_time": "2026-08-13T14:00:00+08:00+08:00"
     },
     {
       "title": "日和",
@@ -105,9 +105,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天3小时",
+      "progress": "UP还剩下9天4小时",
       "start_time": null,
-      "end_time": "2026-08-13T13:00:00+08:00+08:00"
+      "end_time": "2026-08-13T14:00:00+08:00+08:00"
     },
     {
       "title": "亚津子",
@@ -117,9 +117,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天3小时",
+      "progress": "UP还剩下9天4小时",
       "start_time": null,
-      "end_time": "2026-08-13T13:00:00+08:00+08:00"
+      "end_time": "2026-08-13T14:00:00+08:00+08:00"
     },
     {
       "title": "堇(打工)",
@@ -127,9 +127,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/49329706mren4eh6.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     },
     {
       "title": "莱依",
@@ -137,9 +137,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/68920014mren65uh.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     },
     {
       "title": "泉(新年)",
@@ -147,9 +147,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/47444555mren7s18.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     },
     {
       "title": "晴奈(新年)",
@@ -160,9 +160,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     },
     {
       "title": "风香(新年)",
@@ -173,9 +173,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     },
     {
       "title": "明里(新年)",
@@ -185,9 +185,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有3天20小时未UP",
+      "progress": "已经有4天19小时未UP",
       "start_time": null,
-      "end_time": "2026-07-30T14:00:00+08:00+08:00"
+      "end_time": "2026-07-30T15:00:00+08:00+08:00"
     }
   ]
 }
